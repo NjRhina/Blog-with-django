@@ -1,0 +1,9 @@
+U
+
+
+�R`��@s"ddlmZGdd�dej�ZdS)�)�modelsc@s8eZdZejdd�Ze��Zejdd�Zej	dd�Z
+dS)�Project�d)�
+max_length�z/img)�pathN)�__name__�
+__module__�__qualname__r�	CharField�title�	TextField�descriptionZ
+technology�
+FilePathField�image�rr�:/storage/emulated/0/personal_portifolio/projects/models.pyrsrN)�	django.dbr�Modelrrrrr�<module>s
